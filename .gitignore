@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local dir zeromq cache  
+examples/
+*.ipc 
